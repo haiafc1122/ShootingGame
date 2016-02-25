@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\test1.skyofwar\Assets\Scripts\Bullet\BullletPlayer.cs">
+    <Files>
+      <File FileName="..\test1.skyofwar\Assets\Scripts\GUIController.cs" Line="10" Column="17" />
+      <File FileName="..\test1.skyofwar\Assets\Scripts\Bullet\BullletPlayer.cs" Line="15" Column="34" />
+      <File FileName="..\test1.skyofwar\Assets\Scripts\ObjectPooled.cs" Line="31" Column="20" />
+      <File FileName="..\test1.skyofwar\Assets\Scripts\Bullet\BulletDestroy.cs" Line="8" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
